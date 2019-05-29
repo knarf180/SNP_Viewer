@@ -9,3 +9,8 @@ A Snapshot repair class by Andrew McCarthy is used to repair Snapshot files crea
 The command line argument /attrib can be used to associate SNP files with the application.
 
 This project needs to be compiled in 32bit to allow for compatibility with Stephen Lebans's library.
+
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/MoKd6pW.png">
+
+</p>
